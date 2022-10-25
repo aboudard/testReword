@@ -1,0 +1,22 @@
+{
+  "name": "testreword",
+  "version": "1.0.0",
+  "description": "Tests renaming commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboudard/testReword.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboudard/testReword/issues"
+  },
+  "homepage": "https://github.com/aboudard/testReword#readme",
+  "dependencies": {
+    "@angular/cli": "^14.2.6"
+  }
+}
