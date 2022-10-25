@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aboudard/testReword/issues"
   },
-  "homepage": "https://github.com/aboudard/testReword#readme"
+  "homepage": "https://github.com/aboudard/testReword#readme",
+  "dependencies": {
+    "@angular/cli": "^14.2.6"
+  }
 }
